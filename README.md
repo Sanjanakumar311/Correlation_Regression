@@ -1,5 +1,5 @@
 # Correlation and regression for data analysis
-# Name:Raha Sanjana K L
+# Name: Sanjana K L
 # Reg no.:21222420241
 
 # Aim : 
